@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 from perceptron_multidimension_plib import *
-from K_NN_fait_maison import *
+from K_NN import *
 from data_tuples import data
 import matplotlib.pyplot as plt
 
